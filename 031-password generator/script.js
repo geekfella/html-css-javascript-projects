@@ -27,7 +27,7 @@ const getRandomSymbol = () => {
 const randomFunctions = {
   lower: getRandomLower,
   upper: getRandomUpper,
-  number: getRandomSymbol,
+  number: getRandomNumber,
   symbol: getRandomSymbol,
 };
 
